@@ -11,3 +11,4 @@ Repositorio personal de laboratorios prácticos, análisis forense, seguridad de
 1. **[01 - Auditoría Básica de Red y Diagnóstico de Conectividad](./01-auditoria-red-windows-linux)** (`ipconfig`, `ping`, `tracert`, `dig`, `netstat`).
 2. **[02 - Control de Integridad (SHA-256) y Detección Forense con Honeyfiles](./02-integridad-sha256-y-honeyfiles)** (`sha256sum`, `stat`, `timedatectl`).
 3. **[03 - Criptografía Simétrica (AES-256) con OpenSSL](./03-criptografia-simetrica-openssl)** (`openssl`, `AES-256-CBC`, `PBKDF2`).
+4. **[04 - Triaje Forense en Vivo y Búsqueda de Evidencias en Linux](./04-investigacion-forense-linux)** (`find`, `grep`, `ps`, `kill`).
