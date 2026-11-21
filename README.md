@@ -12,3 +12,4 @@ Repositorio personal de laboratorios prácticos, análisis forense, seguridad de
 2. **[02 - Control de Integridad (SHA-256) y Detección Forense con Honeyfiles](./02-integridad-sha256-y-honeyfiles)** (`sha256sum`, `stat`, `timedatectl`).
 3. **[03 - Criptografía Simétrica (AES-256) con OpenSSL](./03-criptografia-simetrica-openssl)** (`openssl`, `AES-256-CBC`, `PBKDF2`).
 4. **[04 - Triaje Forense en Vivo y Búsqueda de Evidencias en Linux](./04-investigacion-forense-linux)** (`find`, `grep`, `ps`, `kill`).
+5. **[05 - Criptografía Asimétrica (RSA-2048) y Firma Digital](./05-criptografia-asimetrica-firma-digital)** (`openssl`, `RSA`, `SHA-256`, `No Repudio`).
